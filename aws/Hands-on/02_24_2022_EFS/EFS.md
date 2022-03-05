@@ -220,7 +220,6 @@ sudo hostnamectl set-hostname Second
 ```
 - Exit and reconnect to the instance to see new hostname.
 
-- Install the "Amazon-efs-utils Package" on Amazon Linux
 
 ```text
 sudo yum install -y amazon-efs-utils
