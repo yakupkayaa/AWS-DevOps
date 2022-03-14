@@ -137,7 +137,7 @@ USE mysql;
 SELECT Host, User, Password FROM user;
 
 # 25. Close mysql cli.
-EXIT;
+.
 
 # 26. Return back to "Wordpress Instance" to configure Word press database settings.
 cd /var/www/html/
